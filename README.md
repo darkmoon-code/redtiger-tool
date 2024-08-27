@@ -150,7 +150,7 @@
 
 <h1>⏳・Installation:</h1>
 
-<a href="https://github.com/loxyteck/RedTiger-Tools/archive/refs/tags/v5.8.zip">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/darkmoon-code/redtiger-tool/archive/refs/heads/main.zip">Dowloads "RedTiger-Tools.zip" Here</a>
 
 <p>
   
@@ -178,7 +178,7 @@ Or
 <h2>🔗・Credits:</h2>
 
 <p>
-  - <a href="[https://discord.gg/](https://discord.gg/CvgKAXnJnf)">Discord</a><br>
+  - <a href="[RedTigerSq](https://discord.gg/CvgKAXnJnf)">Discord</a><br>
   - Creator: paucek_and_lage <br>
   - Version: 5.8
 </p>
