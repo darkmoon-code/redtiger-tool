@@ -20,12 +20,7 @@
 
 <h1>⭐・Features:</h1>
 
-<p align="center">
-  <img src="Img/RedTiger.png" width="49%"> 
-  <img src="Img/RedTiger-2.png" width="49%"> 
-  <img src="Img/RedTiger-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
-</p>
+NO FEATURES
 
 <h1>⚙️・Functions:</h1>
 
