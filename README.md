@@ -15,7 +15,7 @@
   🔎 -> <strong>No malware</strong> or <strong>backdoor</strong>.<br>
   📂 -> <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
   🔄 -> <strong>Frequently updated</strong>.<br>
-  💰 -> <strong>Free</strong> for everyone.<br>
+  💰 -> <strong>Free</strong> not for everyone.<br>
 </p>
 
 <h1>⭐・Features:</h1>
