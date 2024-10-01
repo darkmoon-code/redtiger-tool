@@ -20,7 +20,7 @@
 
 <h1>⭐・Features:</h1>
 
-NO FEATURES
+COMING SOON...
 
 <h1>⚙️・Functions:</h1>
 
